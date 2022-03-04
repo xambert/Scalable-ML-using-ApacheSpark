@@ -39,3 +39,5 @@ cov = sigma( error1 * error2 )/n
 skewness = error^3/(n*std^3)
 
 kurtosis = error^4/ (n * std^4)
+
+PCA : [link]()
