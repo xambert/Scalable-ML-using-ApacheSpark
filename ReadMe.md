@@ -4,10 +4,6 @@
 **Big Data** : If a single device is not enough to process data.
 
 **Storage Solutions** :
-  Type             | Cost | Scalability | Speed | Flexibility  | \
-  Sql              | H    |      L      |  H    |    L         |     
-  NoSql            | H    |      L      |  H    |    L         | \
-  ObjectStorage    | H    |      L      |  H    |    L         | 
   
   **ApacheSpark** : Break Files into smaller chunks and process it on different machines.  (Parallelization) 
   
