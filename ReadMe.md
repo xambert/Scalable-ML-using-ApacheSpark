@@ -9,7 +9,7 @@
   NoSql            | H    |      L      |  H    |    L         | \
   ObjectStorage    | H    |      L      |  H    |    L         | 
   
-  **ApachSpark** : Break Files into smaller chunks and process it on different machines.  (Parallelization) 
+  **ApacheSpark** : Break Files into smaller chunks and process it on different machines.  (Parallelization) 
   
 JBoD : Just a bunch of disk . Link :
 HDFS : Link :
@@ -27,6 +27,7 @@ Why median ? more outlier resistant.
 n = len(list)
 
 mean (mu) = sum(list)/ n
+
 
 error = x-mu
 
