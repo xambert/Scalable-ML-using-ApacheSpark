@@ -42,3 +42,9 @@ skewness = error^3/(n*std^3)
 kurtosis = error^4/ (n * std^4)
 
 PCA : [link]()
+
+Week 3:
+Pipelining and unsupervised Learning
+
+Week 4:
+Supervised Learning
